@@ -18,7 +18,7 @@ footer {
   margin-right: 0;
 }
 
-.section-form {
+.contact-form {
   display: flex;
   flex-direction: column;
   background-image: url(images/contact-form-shapes-mobile.svg);
