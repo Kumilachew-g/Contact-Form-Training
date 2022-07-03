@@ -1,8 +1,6 @@
-# Contact-Form-Training
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Personal-Portfolio
+# Contact-Form-Training
 
 This project is mainly about creating personal portfolio by HTML5 and CSS3.
 
